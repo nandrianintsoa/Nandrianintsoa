@@ -1,4 +1,6 @@
-Hi there 👋, I’m Nandrianintsoa
+# **Hi there 👋, I’m Nandrianintsoa**
+
+**My Tech Stack:**
 
 <div style="display: flex; gap: 15px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />
